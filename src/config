@@ -13,6 +13,7 @@ foreground = #D8DEE9
 background = #2E3440
 foreground_bold = #D8DEE9
 cursor = #D8DEE9
+cursor_foreground = #2E3440
 highlight = #4C566A
 
 color0  = #3B4252
