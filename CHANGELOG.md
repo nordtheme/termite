@@ -4,6 +4,12 @@
 
 ---
 
+# 0.2.0 (2017-01-02)
+## Improvements
+Text under block cursors is now colored darker in `nord0` to avoid unreadability due to the same cursor- and foreground color `nord4`. (@scottwillmoore, #5, 88d0ab21)
+
+<p align="center"><strong>Before</strong><br><img src="https://cloud.githubusercontent.com/assets/7836623/21586772/f08a56d2-d0d4-11e6-84e0-37e3021317ad.png"/><br><strong>After</strong><br><img src="https://cloud.githubusercontent.com/assets/7836623/21586785/23ef246c-d0d5-11e6-8573-2e0d8391186c.gif"/></p>
+
 # 0.1.0 (2016-12-24)
 ## Features
 Implemented the main color config file [`config`](https://github.com/arcticicestudio/nord-termite/blob/develop/src/config). (@arcticicestudio, #1, 6fbfd095)
