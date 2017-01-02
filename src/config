@@ -1,7 +1,7 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # title      Nord Termite                                    +
 # project    nord-termite                                    +
-# version    0.1.0                                           +
+# version    0.2.0                                           +
 # repository https://github.com/arcticicestudio/nord-termite +
 # author     Arctic Ice Studio                               +
 # email      development@arcticicestudio.com                 +
@@ -13,6 +13,7 @@ foreground = #D8DEE9
 background = #2E3440
 foreground_bold = #D8DEE9
 cursor = #D8DEE9
+cursor_foreground = #2E3440
 highlight = #4C566A
 
 color0  = #3B4252
