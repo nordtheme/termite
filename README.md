@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord-termite/develop/src/assets/nord-termite-banner.svg"/></p>
 
-<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/nord-termite/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-termite.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a></p>
+<p align="center"><a href="https://github.com/arcticicestudio/nord-termite/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-termite.svg?style=flat-square&color=88C0D0&label=Release"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a></p>
 
 <p align="center">An arctic, north-bluish clean and elegant <a href="https://github.com/thestinger/termite">Termite</a> color theme.</p>
 
